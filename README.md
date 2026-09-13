@@ -30,14 +30,14 @@ Also one track is made by [EndTheEnders](https://www.youtube.com/@EndTheEnders):
 <details>
 <summary>1.0.0 Trailer (First Release)</summary>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QjZVaXtsLgI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=QjZVaXtsLgI
 
 </details>
 
 <details>
 <summary>2.0.0 Trailer (Gallery Update)</summary>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7rq7BJrfh7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=7rq7BJrfh7o
 
 </details>
 
