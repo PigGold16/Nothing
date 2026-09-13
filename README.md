@@ -1,3 +1,5 @@
+### [Download mod on Modrinth](https://modrinth.com/mod/nothing-horror-mod), this repo is only for bug reporting
+
 ![Logo](https://cdn.modrinth.com/data/cached_images/e055749d275771bb8993683036d38511a565bbf6.png)
 
 _"I gave everything, and I was left with Nothing"_
